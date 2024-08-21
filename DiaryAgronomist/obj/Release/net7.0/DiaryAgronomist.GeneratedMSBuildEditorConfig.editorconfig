@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DiaryAgronomist
+build_property.RootNamespace = DiaryAgronomist
+build_property.ProjectDir = C:\Users\USER\Desktop\DiaryAgronomist\DiaryAgronomist\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\DiaryAgronomist\DiaryAgronomist
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Employee/GetEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcR2V0RW1wbG95ZWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Employee/_CreateOrEditEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcX0NyZWF0ZU9yRWRpdEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Employee/_DeleteEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcX0RlbGV0ZUVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/CreateOrEditHarvesting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXENyZWF0ZU9yRWRpdEhhcnZlc3RpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/CreateOrEditSowing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXENyZWF0ZU9yRWRpdFNvd2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/GetHarvesting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXEdldEhhcnZlc3RpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/GetSowing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXEdldFNvd2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/_DeleteHarvesting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXF9EZWxldGVIYXJ2ZXN0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FarmerJob/_DeleteSowing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVySm9iXF9EZWxldGVTb3dpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/GetConsumptionFuels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxHZXRDb25zdW1wdGlvbkZ1ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/GetReceptionFuels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxHZXRSZWNlcHRpb25GdWVscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/_CreateOrEditConsumptionFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxfQ3JlYXRlT3JFZGl0Q29uc3VtcHRpb25GdWVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/_CreateOrEditReceptionFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxfQ3JlYXRlT3JFZGl0UmVjZXB0aW9uRnVlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/_DeleteConsumptionFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxfRGVsZXRlQ29uc3VtcHRpb25GdWVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/FuelOperation/_DeleteReceptionFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbE9wZXJhdGlvblxfRGVsZXRlUmVjZXB0aW9uRnVlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/GetCereals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEdldENlcmVhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/GetFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEdldEZpZWxkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/GetFuels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEdldEZ1ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/GetFuelSuppliers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEdldEZ1ZWxTdXBwbGllcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/GetMachineries.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEdldE1hY2hpbmVyaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_CreateOrEditCereal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9DcmVhdGVPckVkaXRDZXJlYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_CreateOrEditField.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9DcmVhdGVPckVkaXRGaWVsZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_CreateOrEditFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9DcmVhdGVPckVkaXRGdWVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_CreateOrEditFuelSupplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9DcmVhdGVPckVkaXRGdWVsU3VwcGxpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_CreateOrEditMachinery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9DcmVhdGVPckVkaXRNYWNoaW5lcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_DeleteCereal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9EZWxldGVDZXJlYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_DeleteField.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9EZWxldGVGaWVsZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_DeleteFuel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9EZWxldGVGdWVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_DeleteFuelSupplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9EZWxldGVGdWVsU3VwcGxpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Reference/_DeleteMachinery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXF9EZWxldGVNYWNoaW5lcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/DiaryAgronomist/DiaryAgronomist/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7zwd5d13wr
